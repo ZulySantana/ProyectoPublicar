@@ -7,4 +7,11 @@ p{
     font-size: 18px;
     line-height: 1.5;
     margin: 10px 0;
+    color: white;
+}
+body{
+    font-family: Arial, sans-serif;
+    background-color: black;
+    margin: 0;
+    padding: 0;
 }
